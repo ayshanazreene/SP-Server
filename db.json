@@ -1,0 +1,20 @@
+{
+  "allStudents": [
+    {
+      "id": 1,
+      "fname": "Aysha",
+      "lname": "Naz",
+      "uname": "aysha34",
+      "addr1": "Puthiyedath House, Thaikkattukara PO, Muttom,Aluva,Kochi,Kerala 683106",
+      "addr2": "",
+      "city": "kochi",
+      "state": "kerala",
+      "zip": "454545",
+      "terms": true,
+      "course": "MEARN Stack",
+      "joinDate": "2024-02-01",
+      "appStatus": "Registrationcomplete",
+      "receiptno": ""
+    }
+  ]
+}
